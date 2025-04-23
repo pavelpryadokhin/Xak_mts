@@ -1,0 +1,33 @@
+# Основные библиотеки
+fastapi==0.104.1
+uvicorn==0.24.0.post1
+pydantic==2.4.2
+
+# Для обработки естественного языка
+torch==2.0.1
+transformers==4.35.0
+nltk==3.8.1
+natasha==1.6.0
+scikit-learn==1.3.2
+numpy==1.24.3
+
+# База данных (опционально)
+# sqlalchemy==2.0.23
+# pymongo==4.5.0
+
+# CrewAI и зависимости для агентов
+crewai==0.28.0
+langchain==0.0.335
+langchain-openai==0.0.2.post1
+
+# Инструменты для работы с данными
+pandas==2.1.1
+bs4==0.0.1
+
+# Для тестирования
+pytest==7.4.3
+httpx==0.25.1
+
+# Дополнительные утилиты
+python-dotenv==1.0.0
+tqdm==4.66.1 

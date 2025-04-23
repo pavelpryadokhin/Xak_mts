@@ -1,0 +1,52 @@
+{
+  "subscriber_metadata": {
+    "phone": "8-928-666-66-XX",
+    "operator": {
+      "is_mts": false
+    },
+    "tariff": {
+      "name": "",
+      "includes": []
+    },
+    "services": {
+      "mobile": false,
+      "home_internet": false,
+      "home_tv": false,
+      "home_phone": false
+    },
+    "device": {
+      "model": "Samsung S22 512gb",
+      "os": {
+        "name": "Android",
+        "version": "15"
+      }
+    },
+    "applications": {
+      "my_mts": false,
+      "lk": false,
+      "mts_bank": true,
+      "mts_money": false
+    },
+    "subscriptions": {
+      "mts_premium": false,
+      "mts_cashback": true,
+      "zashchitnik_basic": false,
+      "zashchitnik_plus": false,
+      "kion": false,
+      "music": false,
+      "stroki": false
+    },
+    "financial_products": {
+      "mts_bank": {
+        "debit_card": true,
+        "credit_card": true
+      },
+      "mts_money": {
+        "debit_card": false,
+        "credit_card": false,
+        "virtual_card": false
+      }
+    }
+  }
+}
+

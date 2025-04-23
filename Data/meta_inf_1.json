@@ -1,0 +1,56 @@
+{
+  "subscriber_metadata": {
+    "phone": "8-916-999-99-XX",
+    "operator": {
+      "is_mts": true
+    },
+    "tariff": {
+      "name": "Конвергентный тарифный план №7",
+      "includes": [
+        "мобильная связь",
+        "домашний интернет",
+        "ТВ"
+      ]
+    },
+    "services": {
+      "mobile": true,
+      "home_internet": true,
+      "home_tv": true,
+      "home_phone": false
+    },
+    "device": {
+      "model": "iPhone 16 pro 256 GB",
+      "os": {
+        "name": "iOS",
+        "version": "18.4"
+      }
+    },
+    "applications": {
+      "my_mts": true,
+      "lk": false,
+      "mts_bank": true,
+      "mts_money": false
+    },
+    "subscriptions": {
+      "mts_premium": true,
+      "mts_cashback": true,
+      "zashchitnik_basic": true,
+      "zashchitnik_plus": false,
+      "kion": false,
+      "music": false,
+      "stroki": false
+    },
+    "financial_products": {
+      "mts_bank": {
+        "debit_card": true,
+        "credit_card": false
+      },
+      "mts_money": {
+        "debit_card": false,
+        "credit_card": false,
+        "virtual_card": false
+      }
+    }
+  }
+}
+
